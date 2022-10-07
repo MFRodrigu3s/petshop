@@ -110,8 +110,10 @@
 }
 
 #sobreNos-div {
+    border-radius: 10px;
+    box-shadow: 0px 0px 25px #B57854;
     display: flex;
-    margin: 75px 40px 40px 40px;
+    margin: 75px 40px 50px 40px;
     border-radius: 5px;
     padding: 20px 35px 25px 35px;
 }
